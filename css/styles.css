@@ -29,3 +29,8 @@ footer {
     font-style: italic;
     color: #1F2937;
 }
+
+.call_to_action {
+    background-color: #3882F6;
+    color: white;
+}
