@@ -34,3 +34,10 @@ footer {
     background-color: #3882F6;
     color: white;
 }
+
+.btn_signup {
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+    padding: 5px;
+}
