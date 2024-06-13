@@ -18,9 +18,14 @@ body {
 header {
     background-color: #1F2937;
     color: white;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 100%;
 }
 .logo_and_links {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     height: 50px;
     padding: 10px;
@@ -29,7 +34,7 @@ header {
 ul {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-end;
     list-style: none;
 
 }
