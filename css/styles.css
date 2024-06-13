@@ -14,7 +14,6 @@ body {
     align-items: center;
 }
 /** Header ************************************ */
-
 header {
     background-color: #1F2937;
     color: white;
@@ -30,16 +29,19 @@ header {
     height: 50px;
     padding: 10px;
 }
-
 ul {
     display: flex;
     flex-direction: row;
     align-items: flex-end;
     list-style: none;
-
 }
 li {
     padding: 0px 20px;
+}
+.signup {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 /** .info ************************************* */
