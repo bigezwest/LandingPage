@@ -66,6 +66,7 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 100%;
 }
 
 .info {
@@ -95,7 +96,8 @@ figcaption {
 }
 /** .insp_quote ******************************* */
 .insp_quote {
-    /* display: flex; */
+    display: flex;
+    flex: 1;
     justify-content: center;
     flex-wrap: wrap;
     background-color: #E5E7EB;
