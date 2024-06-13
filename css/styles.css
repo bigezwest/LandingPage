@@ -55,6 +55,11 @@ li {
     padding: 15px;
 }
 
+/** .insp_quote ******************************* */
+.insp_quote {
+    display: flex;
+    justify-content: center;
+}
 
 footer {
     background-color: #1F2937;
