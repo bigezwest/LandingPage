@@ -72,7 +72,7 @@ li {
 }
 
 .info_img {
-    height: 300px;
+    height: 100px;
     padding: 15px;
 }
 
@@ -80,13 +80,22 @@ li {
 .insp_quote {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     background-color: #E5E7EB;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 50px 110px;
     font-size: 36px;
-    font-weight: lighter;
+    font-weight:lighter;
     font-style: italic;
     color: #1F2937;
 }
 
+.sig {
+    font-size: 20px;
+    font-weight: bold;
+    align-self: flex-end;
+}
 /** .call_to_action *************************** */
 .call_to_action {
     display: flex;
