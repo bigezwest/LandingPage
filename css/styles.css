@@ -104,6 +104,8 @@ li {
     padding: 20px 50px;
     background-color: #3882F6;
     color: white;
+    margin: 50px 100px;
+    border-radius: 5px;
 }
 
 .call_to_action_sub {
@@ -112,10 +114,6 @@ li {
     justify-content: center;
     margin: 0px 50px;
 }
-footer {
-    background-color: #1F2937;
-    color: white;
-}
 
 .btn_signup {
     background-color: #3882F6;
@@ -123,4 +121,17 @@ footer {
     padding: 5px;
     border-radius: 5px;
     width: 150px;
+}
+.call_to_action .btn_signup {
+    border: 2px solid white;
+}
+
+/** footer ************************************ */
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    width: 100%;
+    padding: 20px;
 }
