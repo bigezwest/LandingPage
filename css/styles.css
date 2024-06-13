@@ -94,7 +94,6 @@ figcaption {
 .insp_quote {
     /* display: flex; */
     justify-content: center;
-    flex-grow: 1;
     flex-wrap: wrap;
     background-color: #E5E7EB;
     width: 100%;
