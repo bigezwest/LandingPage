@@ -68,6 +68,13 @@ li {
     justify-content: center;
     padding: 20px 50px;
 }
+
+.call_to_action_sub {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 50px;
+}
 footer {
     background-color: #1F2937;
     color: white;
