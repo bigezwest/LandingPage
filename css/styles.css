@@ -52,6 +52,11 @@ li {
     flex-direction: column;
     width: 50%;
 }
+.signup_sub h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
 .logo {
     width: 50px;
     align-items: flex-end;
