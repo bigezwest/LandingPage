@@ -120,12 +120,13 @@ figcaption {
     width: 100%;
     /* margin: 10px 0px; */
     padding: 50px 110px;
+}
+.insp_quote p {
     font-size: 36px;
-    font-weight:100;
+    font-weight: light;
     font-style: italic;
     color: #1F2937;
 }
-
 .sig {
     font-size: 20px;
     font-weight: bold;
