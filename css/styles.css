@@ -23,6 +23,10 @@ header {
     flex-direction: column;
     width: 100%;
 }
+.logo_and_links h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
 .logo_and_links {
     display: flex;
     flex-direction: row;
@@ -57,10 +61,11 @@ li {
     font-weight: extra-bold;
     color: #F9FAF8;
 }
-.logo {
-    width: 50px;
-    align-items: flex-end;
+.signup_sub p {
+    font-size: 18px;
+    color: #E5E7EB;
 }
+
 .ph_image {
     width: 500px;
     margin: 20px;
