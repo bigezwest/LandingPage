@@ -76,6 +76,11 @@ main {
     align-items: center;
     margin: auto 100px;
 }
+.info h2 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #1F2937;
+}
 
 .fig_container {
     display: flex;
